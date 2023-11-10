@@ -24,3 +24,18 @@ h2 {
     text-align: center;
 }
 
+label {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+input {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+legend {
+    color: aliceblue;
+    text-align: center;
+    font-size: medium;
+}
