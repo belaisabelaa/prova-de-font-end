@@ -15,8 +15,9 @@ p {
 }
 
 img {
-    text-align: center;
-    border: #9e71f7;
+  image-resolution: 100px;
+  margin-left: auto;
+
 }
 
 
